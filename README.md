@@ -10,11 +10,9 @@
 
 <br />
 
-<!-- Contact & Live Counters -->
+<!-- Contact Links -->
 [![Email](https://img.shields.io/badge/Email-ihzabudicendhika%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:ihzabudicendhika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ihzabc-0A66C2?style=flat-square)](https://linkedin.com/in/ihzabc)
-[![GitHub Followers](https://img.shields.io/github/followers/EJooL?style=flat-square&color=1E293B&labelColor=0F172A&logo=github&logoColor=F8FAFC)](https://github.com/EJooL)
-![Profile Views](https://komarev.com/ghpvc/?username=EJooL&style=flat-square&color=0284C7&label=PROFILE+VIEWS)
 
 </div>
 
